@@ -36,7 +36,9 @@ int multiply(int x, int res[], int res_size)
 }  
 int main() 
 { 
-    factorial(100); 
+    int n;
+    cin>>n;
+    factorial(int n);
     return 0; 
 } 
 
