@@ -38,7 +38,7 @@ int main()
 { 
     int n;
     cin>>n;
-    factorial(int n);
+    factorial(n);
     return 0; 
 } 
 
